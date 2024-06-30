@@ -10,7 +10,7 @@
     "show_hide_interstitial": 1,
     "show_hom_interstitial": 1,
     "show_hide_reward": 1,
-    "version": 15,
+    "version": 2,
     "clicks": 7,
     "show_update_cancel": 1,
     "admob_id": "ca-app-pub-3940256099942544~3347511713",
@@ -19,6 +19,8 @@
     "reward": "ca-app-pub-3940256099942544/5224354917",
     "native": "ca-app-pub-3940256099942544/1044960115",
     "open_app": "ca-app-pub-3940256099942544/9257395921",
+    "backupImageUrl": "ca-app-pub-3940256099942544/9257395921",
+    "banner_url": "ca-app-pub-3940256099942544/9257395921",
     "unity": "5615861",
     "update_url": "https://play.google.com/store/apps/details?id=com.Way_To_100M.Mhrgnat"
 }
