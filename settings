@@ -1,16 +1,16 @@
 {
     "show_hide_splash_open_app": 1,
     "show_hide_banner": 1,
-    "show_hide_banner_loadBackupAd": 1,
+    "show_hide_banner_loadBackupAd": 0,
     "showHideInterstitial": 1,
     "version": 2,
     "clicks": 5,
     "show_update_cancel": 1,
     "admob_id": "ca-app-pub-3940256099942544~3347511713",
-    "banner": "ca-app-pub-3940256099942544/921458974",
-    "interstitial": "ca-app-pub-3940256099942544/1033173712",
-    "open_app": "ca-app-pub-3940256099942544/9257395921",
-    "backupImageUrl": "https://youssef-apps.com/images/124.png",
-    "update_url": "https://play.google.com/store/apps/details?id=com.Golden_2024_Festivals.Mahraganat_2024_Golde",
-    "banner_url": "https://play.google.com/store/apps/details?id=com.Golden_2024_Festivals.Mahraganat_2024_Golde"
+    "banner": "ca-app-pub-3940256099942544/92145874",
+    "interstitial": "ca-app-pub-3940256099942544/10331712",
+    "open_app": "ca-app-pub-3940256099942544/92575921",
+    "backupImageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi1WY-oZ41spk2Wu-rtn7fq6AZawLEDtujrcz6Kqt1QmK0gJ7H5IxvfgXc7dz8quQiXz4zH7t8h2dpJn9lVXsyPybbJiK_uMSQ5VMqjTRiiLSMO32Z_xF5zUeMXT6dul9IWQiwoDHR0DvSfLAZmHrHenij8L2Zfix9tuuxLGj1wK_DBaeLJ_Q_EUZIhJWs/s1600/bannar_a2ds.png",
+    "update_url": "https://play.google.com/store/apps/details?id=com.way100m.myapplication.video_downloader",
+    "banner_url": "https://play.google.com/store/apps/details?id=com.way100m.myapplication.video_downloader"
 }
