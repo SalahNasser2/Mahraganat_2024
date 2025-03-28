@@ -1,0 +1,133 @@
+{
+  "version": 2,
+  "ads": {
+    "musicListBanner": "ca-app-pub-3940256099942544/9214589741",
+    "onlineBanner": "ca-app-pub-3940256099942544/9214589741",
+    "wallpaperBanner": "ca-app-pub-3940256099942544/9214589741",
+    "fullAd": "ca-app-pub-3940256099942544/1033173712",
+    "openAd": "ca-app-pub-3940256099942544/9257395921",
+    "rewardAd": "ca-app-pub-3940256099942544/5224354917"
+  },
+  "sounds": [
+    {
+      "id": "1",
+      "name": "اتنين بمقام ملايين",
+      "sound_name": "song1.mp3",
+      "rewardEnabled": false,
+      "isVisiable": true,
+      "isOffline": true
+    },
+    {
+      "id": "2",
+      "name": "احنا صيع منحرفين",
+      "sound_name": "song2.mp3",
+      "rewardEnabled": false,
+      "isVisiable": true,
+      "isOffline": true
+    },
+    {
+      "id": "3",
+      "name": "اسطبلات",
+      "sound_name": "song3.mp3",
+      "rewardEnabled": false,
+      "isVisiable": true,
+      "isOffline": true
+    },
+    {
+      "id": "4",
+      "name": "اصحابي اخصامي",
+      "sound_name": "song4.mp3",
+      "rewardEnabled": false,
+      "isVisiable": true,
+      "isOffline": true
+    },
+    {
+      "id": "5",
+      "name": "البت بتاعتك موزه",
+      "sound_name": "song5.mp3",
+      "rewardEnabled": false,
+      "isVisiable": true,
+      "isOffline": true
+    },
+    {
+      "id": "6",
+      "name": "العوده من بعد غياب",
+      "sound_name": "song6.mp3",
+      "rewardEnabled": false,
+      "isVisiable": true,
+      "isOffline": true
+    },
+    {
+      "id": "7",
+      "name": "اللي يقولك دا انتهي",
+      "sound_name": "song7.mp3",
+      "rewardEnabled": false,
+      "isVisiable": true,
+      "isOffline": true
+    },
+    {
+      "id": "8",
+      "name": "انا جاحد ماهيب ولا واحد",
+      "sound_name": "song8.mp3",
+      "rewardEnabled": false,
+      "isVisiable": true,
+      "isOffline": true
+    },
+    {
+      "id": "9",
+      "name": "انا كاشحك",
+      "sound_name": "song9.mp3",
+      "rewardEnabled": false,
+      "isVisiable": true,
+      "isOffline": true
+    },
+    {
+      "id": "10",
+      "name": "انا كينج الشغلانه",
+      "sound_name": "song10.mp3",
+      "rewardEnabled": false,
+      "isVisiable": true,
+      "isOffline": true
+    },
+    {
+      "id": "11",
+      "name": "انا مين انا بابا",
+      "sound_name": "song11.mp3",
+      "rewardEnabled": false,
+      "isVisiable": true,
+      "isOffline": true
+    },
+    {
+      "id": "12",
+      "name": "انت انسان كداب",
+      "sound_name": "song12.mp3",
+      "rewardEnabled": false,
+      "isVisiable": true,
+      "isOffline": true
+    },
+    {
+      "id": "13",
+      "name": "اندال اندال",
+      "sound_name": "song13.mp3",
+      "rewardEnabled": false,
+      "isVisiable": true,
+      "isOffline": true
+    },
+    {
+      "id": "14",
+      "name": "اول قفا يا بروسلي",
+      "sound_name": "song14.mp3",
+      "rewardEnabled": false,
+      "isVisiable": true,
+      "isOffline": true
+    },
+    {
+      "id": "15",
+      "name": "بدا الحط عليهم جمعلي الهلاهيل",
+      "sound_name": "song15.mp3",
+      "rewardEnabled": false,
+      "isVisiable": true,
+      "isOffline": true
+    }
+  ]
+}
