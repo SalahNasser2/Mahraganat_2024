@@ -43,9 +43,9 @@
     },
     {
       "id": "5",
-      "name": "البت بتاعتك موزه",
+      "name": "البت بتاعتك شقط",
       "sound_name": "song5.mp3",
-      "rewardEnabled": false,
+      "rewardEnabled": true,
       "isVisiable": true,
       "isOffline": true
     },
